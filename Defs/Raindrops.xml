@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <WorkGiverDef>
+      <defName>BuildRoofs</defName>
+      <label>build roofs</label>
+      <giverClass>WorkGiver_BuildRoof</giverClass>
+      <workType>Construction</workType>
+      <priorityInType>50</priorityInType>
+      <verb>build roof</verb>
+      <gerund>building roof</gerund>
+      <scanThings>false</scanThings>
+      <scanCells>true</scanCells>
+      <requiredCapacities>
+        <li>Manipulation</li>
+      </requiredCapacities>
+    </WorkGiverDef>
+    
+    <WorkGiverDef>
+      <defName>RemoveRoofs</defName>
+      <label>remove roofs</label>
+      <giverClass>WorkGiver_RemoveRoof</giverClass>
+      <workType>Construction</workType>
+      <priorityInType>250</priorityInType>
+      <verb>remove roof</verb>
+      <gerund>removing roof</gerund>
+      <scanThings>false</scanThings>
+      <scanCells>true</scanCells>
+      <requiredCapacities>
+        <li>Manipulation</li>
+      </requiredCapacities>
+    </WorkGiverDef>
+</Defs>

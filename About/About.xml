@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Raindrops No Longer Fall On My Head Dev</name>
+  <author>ZorbaTHut</author>
+  <url>https://github.com/zorbathut/raindrops</url>
+  <description>Prioritizes roof construction/destruction over object construction/destruction.</description>
+  <targetVersion>0.15.0</targetVersion>
+</ModMetaData>

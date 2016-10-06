@@ -219,7 +219,7 @@
          width="637"
          id="rect5373"
          style="opacity:1;fill:#16360c;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         inkscape:export-filename="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\OSHACompliance_Dev\About\Preview.png"
+         inkscape:export-filename="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Raindrops_Dev\About\Preview.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
@@ -243,7 +243,10 @@
          xml:space="preserve"
          id="flowRoot5457"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5465)"
-         transform="translate(-142.73828,695.17428)"><flowRegion
+         transform="translate(-142.73828,695.17428)"
+         inkscape:export-filename="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Raindrops_Dev\About\Preview.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><flowRegion
            id="flowRegion5459"><rect
              id="rect5461"
              width="674.86646"
@@ -251,9 +254,12 @@
              x="126"
              y="292" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:45px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB Bold Condensed';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
-           id="flowPara4159">Raindrops No Longer Fall on My Head</flowPara></flowRoot>      <g
+           id="flowPara4159">Raindrops No Longer Fall On My Head</flowPara></flowRoot>      <g
          id="g4231"
-         transform="translate(-224.79647,737.73736)">
+         transform="translate(-224.79647,737.73736)"
+         inkscape:export-filename="C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Raindrops_Dev\About\Preview.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
         <path
            id="path4223"
            d="m 618.3143,0.47108111 -12.16735,0.121002 0.2839,24.43863689 c -30.94089,8.329074 -73.36439,12.374803 -112.53041,14.779169 23.7243,60.365571 67.16174,108.945671 106.69752,161.208491 14.00462,-12.32277 34.54851,-20.05185 56.41595,-22.57659 -14.06005,-11.35349 -24.76326,-17.53337 -39.76899,-44.16133 21.13739,23.25056 35.54151,30.38654 52.47035,38.87486 2.20567,-8.20932 6.04176,-15.44687 12.65472,-20.48507 5.85858,-4.4639 13.53685,-6.67956 22.66507,-6.4852 C 673.34993,108.71644 636.30981,72.79766 618.62659,27.418158 L 618.3143,0.47170811 Z m -133.77664,7.31967899 -12.166,0.152977 c 0,0 0.169,11.4983219 0.37854,23.1784609 0.10545,5.840696 0.21969,11.725906 0.33055,16.25627 0.0406,1.652649 0.0791,2.871446 0.11762,4.101528 -23.23829,52.496684 -46.74561,100.935084 -83.76545,146.357224 22.73605,-0.86959 44.83398,-0.75423 66.6176,-0.0257 15.04898,-39.25793 15.78105,-84.54778 24.08256,-126.648317 7.71748,42.985177 7.14224,87.425497 22.6333,129.045787 29.04076,1.93227 57.92335,4.51281 87.43593,6.85009 -37.63091,-49.62397 -79.90772,-97.20095 -104.85417,-156.340195 -0.0338,-1.117231 -0.0676,-2.129133 -0.10274,-3.596831 -0.10951,-4.486477 -0.2251,-10.359148 -0.32987,-16.187932 -0.20955,-11.657568 -0.37787,-23.1433519 -0.37787,-23.1433519 z"
